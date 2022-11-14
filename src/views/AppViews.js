@@ -43,7 +43,7 @@ exports.DeployerOrAttacher = class extends React.Component {
         <p>
           <button
             onClick={() => parent.selectAttacher()}
-          >Fortune Reader</button>
+          >Fortune Teller</button>
           <br /> Attach to the Fortune Seeker's contract.
         </p>
       </div>

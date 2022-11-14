@@ -76,7 +76,7 @@ exports.WaitingForAttacher = class extends React.Component {
     const {ctcInfoStr} = this.props;
     return (
       <div>
-        Waiting for the Fortune Reader to join...
+        Waiting for the Fortune Teller to join...
         <br /> Please give them this contract info:
         <pre className='ContractInfo'>
           {ctcInfoStr}
